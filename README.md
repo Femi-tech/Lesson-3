@@ -19,6 +19,6 @@ print ("Hello World")
 ### Directory
 
 [code](code)
-[data] (data)
+[data](data)
 [reference](reference)
 ![markdown-image](eiffel-tower.jpg)
